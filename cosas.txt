@@ -1,0 +1,25 @@
+Tener un menu con un item que diga genero
+cuando se le da click que muestre todos los generos
+
+generos/endpoint
+https://api.jikan.moe/v4/genres/anime
+link de los generos
+https://docs.api.jikan.moe/#operation/getAnimeGenres
+//////////////////////////////////////////////////////////
+link que me liste por recomendaciones 
+https://docs.api.jikan.moe/#operation/getRecentAnimeRecommendations
+endpoint
+https://api.jikan.moe/v4/recommendations/anime
+
+filtar id
+https://docs.api.jikan.moe/#operation/getAnimeFullById
+
+endpoint
+https://api.jikan.moe/v4/anime/{id}
+
+"entry": [
+				{
+					"mal_id": 5114,
+					"url": "https:\/\/myanimelist.net\/anime\/5114\/Fullmetal_Alchemist__Brotherhood",
+                }
+        ]
